@@ -12,7 +12,7 @@ import {store} from './New/Redux/store.js'
 createRoot(document.getElementById('root')).render(
 
     <Provider store={store}>
-   <App2/>
+   <App/>
     </Provider>
 
 //  <Context>
