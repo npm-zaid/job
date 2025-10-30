@@ -61,6 +61,7 @@ const {count,increment,decrement,reset} = useCounter(10)
         {/* <ErrorBoundary FallbackComponent={Fallback}>  
           <Doubt/>
         </ErrorBoundary> */}
+        <div className='h-screen bg-green-400'></div>
     </div>
   )
 }
