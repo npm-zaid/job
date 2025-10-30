@@ -62,7 +62,7 @@ const {count,increment,decrement,reset} = useCounter(10)
           <Doubt/>
         </ErrorBoundary> */}
         <div className='h-screen bg-green-400'>
-          <h2>Feature</h2>
+          <h2>hello</h2>
         </div>
     </div>
   )
