@@ -48,10 +48,10 @@ console.log(M)
       <NavLink to='/todo' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Todo</NavLink>
       <NavLink to='/form' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Form</NavLink>
       <NavLink to='/3' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Redux</NavLink>
-        <NavLink to='/form' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Form</NavLink>    
+      <NavLink to='/form' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Form</NavLink>    
       <NavLink to='/formValidation' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Form Validation</NavLink>
       <NavLink to='/cursor' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Cursor</NavLink>
-         <NavLink to='/emp2' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Emp</NavLink>
+      <NavLink to='/emp2' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Emp</NavLink>
       <NavLink to='/emp' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Emp clone</NavLink>
       <NavLink to='/gsap' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Gsap</NavLink>
       <NavLink to='/job' className={({isActive})=>(isActive?'text-white': 'text-white/40')}>Job Tracker</NavLink>
